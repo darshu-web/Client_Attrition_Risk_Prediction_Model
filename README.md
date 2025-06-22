@@ -125,11 +125,6 @@ Feel free to connect or raise issues if you find bugs or have suggestions!
 This project is licensed under the MIT License – feel free to use and modify it for your own projects.
 
 ⭐ If you found this project helpful, give it a star on GitHub!
-
-yaml
-Copy
-Edit
-
 ---
 
 Let me know if you'd like me to:
