@@ -92,26 +92,21 @@ Client_Attrition_Risk_Prediction_Model/
 ├── src/                     # Python scripts for preprocessing, training, and evaluation
 ├── README.md                # Project overview
 └── requirements.txt         # Required Python libraries
-✅ How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
+
+✅ How to Run
+1.Clone the repository:
 git clone https://github.com/darshu-web/Client_Attrition_Risk_Prediction_Model.git
 cd Client_Attrition_Risk_Prediction_Model
-Install dependencies:
 
-bash
-Copy
-Edit
+2.Install dependencies:
 pip install -r requirements.txt
-Run the notebook or Python scripts:
 
-bash
-Copy
-Edit
-jupyter notebook notebooks/Attrition_Model.ipynb
+3.Run the reporting.py
+Python reporting.py
+
+
+
 🔍 Future Improvements
 Add Streamlit or Flask web app for interactive predictions
 
