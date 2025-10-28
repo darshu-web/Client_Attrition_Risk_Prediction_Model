@@ -61,10 +61,10 @@ The final model was selected based on accuracy, precision, recall, and F1 score.
 
 | Metric        | Value (example) |
 |---------------|-----------------|
-| Accuracy      | 89.5%           |
-| Precision     | 86.2%           |
-| Recall        | 84.1%           |
-| F1 Score      | 85.1%           |
+| Accuracy      | 96.5%           |
+| Precision     | 95.2%           |
+| Recall        | 92.1%           |
+| F1 Score      | 93.1%           |
 
 > These metrics may vary based on the final model and dataset used.
 
